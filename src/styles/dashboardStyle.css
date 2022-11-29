@@ -1,0 +1,62 @@
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 0.961453px rgba(20, 20, 20, 0.08), 0px 0.961453px 7.69162px 1.92291px rgba(20, 20, 20, 0.08);
+    border-radius: 15px;
+}
+
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card .kegiatan-badge{
+    width: 100%;
+}
+
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card img {
+    border-radius: 15px 15px 0 0;
+}
+
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card .kegiatan-card-body h5{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card .kegiatan-card-body p{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card .kegiatan-card-body a{
+    background: #9EB23B;
+    border-radius: 48px;
+    font-size: 14px;
+    color: white;
+}
+
+.kegiatan .kegiatan-row .kegiatan-col .kegiatan-card .kegiatan-card-body a:hover{
+    background: #bbcb68;
+}
+
+.kegiatan header .sub-nav .button-active{
+    margin: 10px 60px 10px 0;
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+    border: none;
+}
+
+.kegiatan header .sub-nav .button-regis{
+    margin: 10px 0;
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+    border: none;
+}
+
+.kegiatan header .sub-nav a:hover{
+    color: #9EB23B;
+}

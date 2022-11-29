@@ -1,0 +1,29 @@
+.search-nav{
+    width: 100vw;
+    height: 64px;
+    background-color: #FCF9C6;
+}
+
+.manage-table .table-card .table-card-body button{
+    color: white;
+}
+
+#group{
+    width: 100%;
+}
+
+.loader {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.834)
+        url("https://media.giphy.com/media/8agqybiK5LW8qrG3vJ/giphy.gif") center
+        no-repeat;
+    z-index: 1;
+}
+
+/* .search-nav .menage .data-tanggal{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+} */
